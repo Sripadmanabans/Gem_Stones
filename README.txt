@@ -1,0 +1,1 @@
+This is my solution for the Gem stones problem in hacker rank.
